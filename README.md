@@ -20,7 +20,7 @@ This value is written to **register address 1 of the IS3715**, which causes the 
 - Download the example code: [https://inacks.com/is3715](https://inacks.com/is3715)  
 - Product information (Kappa3715Ard): [https://inacks.com/kappa3715ard](https://inacks.com/kappa3715ard)
 
-'''
+```c
 #include <stdio.h>
 
 // IS3715 Memory Map Registers:
